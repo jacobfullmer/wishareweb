@@ -89,7 +89,7 @@
                 logout: false,
                 drawer: false,
                 links: [
-                    {icon: 'home', text: 'Home', route: '/'},
+                    {icon: 'home', text: 'Home', route: '/wishareweb'},
                     {icon: 'help', text: 'About', route: '/about'},
                     // {icon: 'person', text: 'Profile', route: '/profile'},
                 ],
