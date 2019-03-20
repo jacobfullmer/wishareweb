@@ -19,7 +19,7 @@
     </div>
     <v-container style="padding-top: 50px; padding-bottom: 50px" class="hidden-xs-only">
       <v-layout style="max-width: 200px; margin: 0 auto; justify-content: center">
-        <v-flex xs12 offset-xs5 offset-md2 offset-lg5>
+        <v-flex style="margin: 0 auto">
           <v-card>
             <v-img
                     height="200px"
@@ -31,7 +31,7 @@
             <v-card-title class="themedark darken-2">
               <div>
                 <span class="themedark--text">Jacob Fullmer</span><br>
-                <span class="themegreen--text">beard guy</span><br>
+                <span class="themegreen--text">Lead UI developer</span><br>
               </div>
             </v-card-title>
           </v-card>
@@ -47,7 +47,7 @@
             <v-card-title class="themedark darken-2">
               <div>
                 <span class="themedark--text">Eric Pratt</span><br>
-                <span class="themegreen--text">Guy who curses</span><br>
+                <span class="themegreen--text">Lead backend developer</span><br>
               </div>
             </v-card-title>
           </v-card>
@@ -63,7 +63,7 @@
             <v-card-title class="themedark darken-2">
               <div>
                 <span class="themedark--text">Joseph Vu</span><br>
-                <span class="themegreen--text">Guy who copied SQLite code</span><br>
+                <span class="themegreen--text">Lead SQL developer</span><br>
               </div>
             </v-card-title>
           </v-card>
@@ -79,7 +79,7 @@
             <v-card-title class="themedark darken-2">
               <div>
                 <span class="themedark--text">Aditya Khandkar</span><br>
-                <span class="themegreen--text">Guy who thinks he knows Git</span><br>
+                <span class="themegreen--text">Full stack developer</span><br>
               </div>
             </v-card-title>
           </v-card>
