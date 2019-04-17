@@ -1,1 +1,1 @@
-stuff
+This is a promotional website for the Android app WiShare
