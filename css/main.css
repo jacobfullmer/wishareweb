@@ -16,7 +16,7 @@ html,h1,h2,h3,h4,h5,h6,a{
 .line {
     position: relative;
     top: 75px;
-    width: auto;
+    width: fit-content;
     margin: 0 auto;
     border-right: 2px solid #1A964E;
     font-size: 24pt;
@@ -34,7 +34,7 @@ html,h1,h2,h3,h4,h5,h6,a{
         width: 0;
     }
     to {
-        width: 13em;
+        width: 10em;
     }
 }
 
